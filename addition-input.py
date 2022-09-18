@@ -1,9 +1,6 @@
 # Complete this program to add two numbers with inputs
 
-from sys import argv
-
-a = int(argv[1])
-b = int(argv[2])
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
 c = # ...?
 print(c)
-
